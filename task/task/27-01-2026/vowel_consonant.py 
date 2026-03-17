@@ -1,0 +1,11 @@
+character=input("enter word:")
+
+
+
+match character:
+    case "a"|"e"|"i"|"o"|"u":
+        print("vowel")
+
+
+    case _:
+        print("not vowel")

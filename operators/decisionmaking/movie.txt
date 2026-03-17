@@ -1,0 +1,12 @@
+movie:
+    malayalam:
+        arm
+        L2
+    tamil:
+        kathi
+        thupaki
+        theri
+    kanada:
+        bunny
+        happy days
+           

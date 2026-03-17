@@ -1,0 +1,6 @@
+rocket 3000
+rr 1000
+hayabusa
+iron 830
+gt650
+ninja z900

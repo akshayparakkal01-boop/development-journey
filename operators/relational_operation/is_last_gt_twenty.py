@@ -1,0 +1,3 @@
+number=12345
+is_last_gt_less_than_20=number%100<20
+print(is_last_gt_less_than_20)

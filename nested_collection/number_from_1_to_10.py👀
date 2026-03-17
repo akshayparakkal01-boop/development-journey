@@ -1,0 +1,22 @@
+
+number_list=[i for i in range (1,11)]
+print(number_list)
+
+nums=[2,4,6,8,10]
+# create a new list that contains double of each number
+doubles=[num*2 for num in nums ]
+print(doubles)
+
+# create a list of even number, from range of 20 to 50
+
+evens=[i for i in range(20,51)if i%2==0 ]
+
+print(evens)
+
+words=["apple","bat","carrot","elephant","ball","red"]
+
+#create a new list that contain words length > 3
+
+length_filter=[w for w in words if len(w) >3 ]
+
+print(length_filter)
